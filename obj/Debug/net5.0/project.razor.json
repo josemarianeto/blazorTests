@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": -262481793,
-        "Kind": "Components.Component",
-        "Name": "blazorTests.Pages.FetchData",
-        "AssemblyName": "blazorTests",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorTests.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 984294743,
-        "Kind": "Components.Component",
-        "Name": "blazorTests.Pages.FetchData",
-        "AssemblyName": "blazorTests",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorTests.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorTests.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1272390112,
         "Kind": "Components.Component",
         "Name": "blazorTests.Pages.Index",
@@ -103,6 +70,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazorTests.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -262481793,
+        "Kind": "Components.Component",
+        "Name": "blazorTests.Pages.FetchData",
+        "AssemblyName": "blazorTests",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorTests.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 984294743,
+        "Kind": "Components.Component",
+        "Name": "blazorTests.Pages.FetchData",
+        "AssemblyName": "blazorTests",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorTests.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorTests.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
